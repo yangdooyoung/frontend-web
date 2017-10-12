@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>4</title>
+</head>
+<body>
+    <div id="wrap"></div>
+     <div id="bt">
+         <input type="button" id="left" value="<"></input>
+         <span class="page">1/3</span>
+         <input type="button" id="right" value=">"></input>
+    </div>
+<script src="Carousel.js"></script>
+</body>
+</html>
